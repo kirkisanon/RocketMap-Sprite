@@ -32,5 +32,5 @@ Feel free to open an issue if you find a problem
 
 ##Credits
 
-*[TheArtificial.nl](http://theartificial.nl/pokemonicons/) 
-*[ViciousBlue](http://viciousblue.deviantart.com/) 
+* [TheArtificial.nl](http://theartificial.nl/pokemonicons/) 
+* [ViciousBlue](http://viciousblue.deviantart.com/) 
