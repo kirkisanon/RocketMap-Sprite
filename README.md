@@ -16,11 +16,11 @@ Addon Sprites for RocketMap
 
 ## Installation
 
-1) Download 
-2) Backup your static and template folders incase something goes wrong
-3) Place the downloaded static and templates folder to the root of your RocketMap Installation
-4) Overwrite the files when asked
-5) open a terminal/cmd and npm install
+* 1) Download 
+* 2) Backup your static and template folders incase something goes wrong
+* 3) Place the downloaded static and templates folder to the root of your RocketMap Installation
+* 4) Overwrite the files when asked
+* 5) open a terminal/cmd and npm install
 
 ## Troubleshooting
 
@@ -33,5 +33,6 @@ Feel free to open an issue if you find a problem
 ##Credits
 
 * Icons
+
 [TheArtificial.nl](http://theartificial.nl/pokemonicons/) 
 [ViciousBlue](http://viciousblue.deviantart.com/) 
