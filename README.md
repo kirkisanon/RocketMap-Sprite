@@ -3,6 +3,9 @@
 Addon Sprites for RocketMap
 ![artificialfin](https://cloud.githubusercontent.com/assets/8204684/21958146/87127c88-da9e-11e6-8e18-0f5a6ba2165e.png)
 
+##Update Info
+28/01 - Updated all files to include edits done by RocketMap Devs upto commit  785b4b5
+
 ## Features:
 
 * Adds the icon set selector on the option side bar back.

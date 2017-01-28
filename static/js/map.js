@@ -374,8 +374,7 @@ function getTypeSpan(type) {
 }
 
 function openMapDirections(lat, lng) { // eslint-disable-line no-unused-vars
-    var myLocation = locationMarker.getPosition()
-    var url = 'https://www.google.com/maps/dir/' + myLocation.lat() + ',' + myLocation.lng() + '/' + lat + ',' + lng
+    var url = 'https://www.google.com/maps/dir/Current+Location/' + lat + ',' + lng
     window.open(url, '_blank')
 }
 
@@ -1860,7 +1859,7 @@ $(function () {
             redrawPokemon(mapData.pokemons)
             redrawPokemon(mapData.lurePokemons)
         })
- 
+		
     $selectIconSize = $('#pokemon-icon-size')
 
     $selectIconSize.select2({
