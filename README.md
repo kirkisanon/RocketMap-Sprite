@@ -4,7 +4,8 @@ Addon Sprites for RocketMap
 ![artificialfin](https://cloud.githubusercontent.com/assets/8204684/21958146/87127c88-da9e-11e6-8e18-0f5a6ba2165e.png)
 
 ##Update Info
-28/01 - Updated all files to include edits done by RocketMap Devs upto commit  785b4b5
+29/01 - Updated all files to include edits done by RocketMap Devs upto [commit  f55ad0e](https://github.com/RocketMap/RocketMap/commits/develop)
+28/01 - Updated all files to include edits done by RocketMap Devs upto [commit  785b4b5](https://github.com/RocketMap/RocketMap/commits/develop)
 
 ## Features:
 
@@ -27,7 +28,17 @@ Addon Sprites for RocketMap
 
 ## Troubleshooting
 
-If things go wrong replace your original folders and npm install
+*If things go wrong replace your original folders and npm install.
+
+*If you try to git pull and recieve an error such as
+```
+error: Your local changes to the following files would be overwritten by merge:
+	static/js/map.common.js
+	static/js/map.js
+Please, commit your changes or stash them before you can merge.
+```
+You should delete your modified files (they will be the ones you got here) and then git pull to get official ones.
+I will update the sprite mod using the latest files as soon as I can, you can check when the last update was in the update section above.
 
 ## Issues
 
