@@ -4,9 +4,8 @@ Addon Sprites for RocketMap
 ![artificialfin](https://cloud.githubusercontent.com/assets/8204684/21958146/87127c88-da9e-11e6-8e18-0f5a6ba2165e.png)
 
 ##Status
+
 Updated for gen 2
-=======
-There should be an update later today (17/02/17) after the official update, until then there is no point installing this.
 
 ##Update Info
 17/02 - updated artificial to gen 2, shuffle to gen 6(future proof), rumble to gen 2. Removed ViciousBlue until I can update it
