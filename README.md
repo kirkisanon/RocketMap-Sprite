@@ -4,7 +4,7 @@ Addon Sprites for RocketMap
 ![artificialfin](https://cloud.githubusercontent.com/assets/8204684/21958146/87127c88-da9e-11e6-8e18-0f5a6ba2165e.png)
 
 ##Status
-There should be an update later today after the offical update, until then there is no point installing this
+There should be an update later today (17/02/17) after the official update, until then there is no point installing this.
 
 ##Update Info
 29/01 - Updated all files to include edits done by RocketMap Devs upto [commit  f55ad0e](https://github.com/RocketMap/RocketMap/commits/develop)
