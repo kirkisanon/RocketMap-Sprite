@@ -8,6 +8,7 @@ Addon Sprites for RocketMap
 Updated for gen 2
 
 ##Update Info
+18/02 - Added a new sheet and made it default because official hires was too small. Added official commits
 17/02 - updated artificial to gen 2, shuffle to gen 6(future proof), rumble to gen 2. Removed ViciousBlue until I can update it
 29/01 - Updated all files to include edits done by RocketMap Devs upto [commit  f55ad0e](https://github.com/RocketMap/RocketMap/commits/develop)
 
@@ -34,7 +35,7 @@ Updated for gen 2
 
 *If things go wrong replace your original folders and npm install.
 
-*If you try to git pull and recieve an error such as
+*If you try to git pull to update the map and recieve an error such as
 ```
 error: Your local changes to the following files would be overwritten by merge:
 	static/js/map.common.js
@@ -51,4 +52,3 @@ Feel free to open an issue if you find a problem
 ##Credits
 
 * [TheArtificial.nl](http://theartificial.nl/pokemonicons/) 
-* [ViciousBlue](http://viciousblue.deviantart.com/) 
