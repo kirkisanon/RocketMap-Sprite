@@ -789,6 +789,15 @@ var pGoStyleNight = [{
 }]
 
 var pokemonSprites = {
+  hybrid: {
+    columns: 17,
+    iconWidth: 120,
+    iconHeight: 120,
+    spriteWidth: 2040,
+    spriteHeight: 1800,
+    filename: 'static/hybrid.png',
+    name: 'Hybrid'
+	},
   highres: {
     columns: 28,
     iconWidth: 80,
@@ -980,7 +989,7 @@ var StoreOptions = {
         type: StoreTypes.Boolean
     },
     'pokemonIcons': {
-        default: 'highres',
+        default: 'hybrid',
         type: StoreTypes.String
     },
     'iconSizeModifier': {
@@ -1067,7 +1076,7 @@ function setupPokemonMarker(item, map, isBounceDisabled) {
     // Scale icon size up with the map exponentially
     var iconSize = 2 + (map.getZoom() - 3) * (map.getZoom() - 3) * 0.2 + Store.get('iconSizeModifier')
     var pokemonIndex = item['pokemon_id'] - 1
-    var sprite = pokemonSprites[Store.get('pokemonIcons')] || pokemonSprites['highres']
+    var sprite = pokemonSprites[Store.get('pokemonIcons')] || pokemonSprites['hybrid']
     var icon = getGoogleSprite(pokemonIndex, sprite, iconSize)
 
     var animationDisabled = false
