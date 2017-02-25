@@ -5,12 +5,11 @@ Addon Sprites for RocketMap
 
 ##Status
 
-Updated for gen 2
+Discontinued, I Just dont have the time. Feel free to fork it and keep it updated if you wish.
 
 ##Update Info
+25/02 - Discontinued  
 18/02 - Added a new sheet and made it default because official hires was too small. Added official commits
-17/02 - updated artificial to gen 2, shuffle to gen 6(future proof), rumble to gen 2. Removed ViciousBlue until I can update it
-29/01 - Updated all files to include edits done by RocketMap Devs upto [commit  f55ad0e](https://github.com/RocketMap/RocketMap/commits/develop)
 
 ## Features:
 
